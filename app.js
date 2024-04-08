@@ -1,6 +1,7 @@
 const div = document.querySelector('div')
 
 
+
 const phones = [
     {
         brand: 'Samsung',
